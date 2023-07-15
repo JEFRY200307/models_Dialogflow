@@ -1,0 +1,5 @@
+google-cloud-dialogflow==2.23.2
+streamlit-chat==0.1.1
+streamlit==1.24.1
+openai==0.27.8
+python-dotenv==1.0.0
